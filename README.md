@@ -44,6 +44,17 @@ Você pode rodar a aplicação de duas formas: **via Docker (recomendado)** ou *
 
 ## Como Acessar a Aplicação
 
+É possível acessar a API e sua documentação interativa através do navegador pelo seguinte link:
+
+https://coworking-6oog.onrender.com/
+
+Entretanto ainda é necessário acessar o caminho correto para a documentação Swagger, que é:
+
+https://coworking-6oog.onrender.com/swagger-ui.html
+Ou
+http://localhost:8080/v3/api-docs`
+
+Caso queira rodar localmente siga as instruções abaixo para acessar a aplicação na porta `8080`.
 Assim que a aplicação estiver em execução na porta `8080`, utilize os seguintes endereços no navegador ou cliente HTTP (Postman, Insomnia, cURL):
 
 - **URL Base da API**: `http://localhost:8080`
